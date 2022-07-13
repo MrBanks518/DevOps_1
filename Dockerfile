@@ -3,5 +3,5 @@
 # Using the base image openjdk: latest
 FROM openjdk:latest
 # Copying myfile1.txt to the containers /usr/share directory
-COPY *.txt /usr/share
+COPY *.C /usr/share
 #
